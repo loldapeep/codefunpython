@@ -23,3 +23,4 @@ d=round(d, 7-digit(d))
 print(d)
 print("{:.2f}".format(c+d))
 #not accepted
+#need 7 digit precision, only 15 digit precision is available on py

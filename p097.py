@@ -15,3 +15,4 @@ else:
             s=s[:(i-1)]
 print(s)
 #not accepted
+#WA on test 1
