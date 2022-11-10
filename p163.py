@@ -11,3 +11,5 @@ for i in range(0,n):
         res = dem
 
 print(res) 
+#not accepted
+#same problem with p162
