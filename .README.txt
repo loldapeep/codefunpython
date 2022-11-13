@@ -1,7 +1,4 @@
-report any bugs if you do find them
-
-contact me through discord on peepdamonster#4415
-
+discord: peepdamonster#4415
 list các bài không ac được:
 P038 -> 10
 P049 -> 40
@@ -10,7 +7,6 @@ P097 -> 90
 P124 -> 20
 P126 -> 10
 P162 -> 90
-P163 -> 90
 P178 -> 60
 P179 -> 60
 P210 -> 95
@@ -24,3 +20,13 @@ P304 -> 93.(3)
 P308 -> 0 (full rte)
 P316 -> 90
 P330 -> 0 (full rte)
+P337 -> 90
+P338 -> 90
+P352 -> 95
+P358 -> 0
+P386 -> 0
+P394 -> 80 (tle)
+P395 -> 0 (tle)
+P396 -> 80 (tle)
+P399 -> 40 (tle)
+P404 -> 0 (rte)

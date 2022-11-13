@@ -1,0 +1,1 @@
+print("{:.2f}".format(int(input())*3.141592654*2))
